@@ -1,0 +1,1 @@
+This is the simple computer vision model to detect season in your image (spring, summer, autumn or winter) 
